@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Gates a lead magnet before it ships: it must reveal an unknown problem (or its size), sample the solution, and leave the core offer as the obvious completion.",
+  "keywords": [
+    "kairos",
+    "magnet",
+    "small business",
+    "tester"
+  ],
+  "license": "MIT",
+  "name": "kairos-magnet-tester",
+  "repository": "https://github.com/baselam88/kairos-magnet-tester-plugin",
+  "version": "0.1.0"
+}
